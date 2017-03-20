@@ -13,8 +13,8 @@ Jibambe
 ## License information
 `MIT` License copyright `2017` March 20th
 
-![alt text][logo]
-[logo]:  https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj4ia-NvOXSAhVsK8AKHfgsCdMQjRwIBw&url=http%3A%2F%2Fwww.michiganduckrescueandsanctuary.com%2F&psig=AFQjCNFsVoc4Jb9sXSOyHhtoHCQsAajL4w&ust=1490112584105069
+![alt text](http://www.manitowoc.org/ImageRepository/Document?documentID=21925 "the duck")
+
 ## Theme song
 ```I believe I can fly
 I believe I can touch the sky
