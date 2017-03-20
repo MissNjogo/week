@@ -4,8 +4,8 @@ Week 2 Project
 ## Application name
 Our first *README.md* file
 ## Contributors
-1. Stella Njogo.
-2. Mulu Kadan.
+1. __Stella Njogo.__
+2. __Mulu Kadan.__
 ## Purpose
 To master Markdown
 ## Setup instruction
