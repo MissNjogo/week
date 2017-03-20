@@ -12,6 +12,8 @@ To master Markdown
 Jibambe
 ## License information
 `MIT` License copyright `2017` March 20th
+
+![alt text][logo]
 [logo]:  https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj4ia-NvOXSAhVsK8AKHfgsCdMQjRwIBw&url=http%3A%2F%2Fwww.michiganduckrescueandsanctuary.com%2F&psig=AFQjCNFsVoc4Jb9sXSOyHhtoHCQsAajL4w&ust=1490112584105069
 ## Theme song
 ```I believe I can fly
@@ -30,9 +32,9 @@ Spread my wings and fly away
 
 ## Hobbies
 1. Indoor
-..* Dancing.
-..* Cooking.
+* Dancing.
+* Cooking.
 
 2. Outdoor
-..1. Swimming
-..2. Biking
+* Swimming
+* Biking
